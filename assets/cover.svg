@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600">
+  <rect width="1600" height="1600" fill="#10241b"/>
+  <rect x="96" y="96" width="110" height="110" rx="28" fill="#b2f2ca"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="115" y="169" fill="#143b28" font-size="56" font-weight="700">{↗}</text>
+    <text x="242" y="175" fill="#f1faf4" font-size="80" font-weight="750">JSONPick</text>
+    <text x="100" y="300" fill="#adc8b7" font-size="36">给后端开发者的本地日志 JSON 工作台</text>
+    <text x="96" y="478" fill="#f1faf4" font-size="100" font-weight="750">日志再乱，</text>
+    <text x="96" y="610" fill="#b2f2ca" font-size="100" font-weight="750">JSON 也能清晰。</text>
+    <rect x="96" y="700" width="1408" height="300" rx="30" fill="#1c3b2b"/>
+    <text x="144" y="780" fill="#afc9b9" font-size="34">混合日志 · 字符串内联 · 截断可读</text>
+    <text x="144" y="864" fill="#f1faf4" font-size="36">筛选记录 / 选择列 / 导出 ID / 结构对比</text>
+    <text x="144" y="944" fill="#b2f2ca" font-size="34">本机解析，日志无需上传</text>
+    <text x="96" y="1160" fill="#b2f2ca" font-size="116" font-weight="750">¥9.9</text>
+    <text x="423" y="1150" fill="#f1faf4" font-size="44">一次性个人授权</text>
+    <text x="100" y="1270" fill="#f1faf4" font-size="44">macOS + Windows</text>
+    <text x="100" y="1350" fill="#adc8b7" font-size="34">14 天试用 · 本人两台设备 · 包含一年更新</text>
+    <text x="100" y="1480" fill="#7fa58e" font-size="28">首发准备中 · 合成数据演示 · 正式购买入口尚未开放</text>
+  </g>
+</svg>
