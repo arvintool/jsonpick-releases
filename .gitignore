@@ -1,0 +1,9 @@
+*.zip
+*.exe
+*.app/
+*.dmg
+*.key
+*.pem
+codes.txt
+license.json
+.DS_Store

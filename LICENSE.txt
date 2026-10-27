@@ -1,0 +1,1 @@
+本仓库提供 JSONPick 安装与使用说明，不授予 JSONPick 自有程序源码的开源许可。软件许可见 docs/使用与许可说明.md；第三方组件各自保留权利，见 docs/THIRD-PARTY-NOTICES.txt。
