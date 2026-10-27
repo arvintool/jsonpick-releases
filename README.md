@@ -2,14 +2,14 @@
 
 从混合日志中提取、展开、筛选和复制 JSON 的本地桌面工具。
 
-**当前 0.1.33 为商业候选，尚未公开启售或发布下载。** 本仓库用于安装包发行与使用说明；应用源码未在本仓库提供。
+**当前 0.1.33 为试用候选版，尚未开放购买。** 本仓库用于安装包发行与使用说明；应用源码未在本仓库提供。
 
 ![JSONPick 首发方案](assets/cover.svg)
 
 ## 下载
 
-安装包计划放在 GitHub 的 Releases / Assets（发行版附件）；Gitee 暂不启用，不需要另一个个人网站。当前没有已验收的公网下载地址。
-- github 计划发行页（尚未发布）：https://github.com/arvintool/jsonpick-releases/releases/tag/v0.1.33
+安装包位于 GitHub 的 Releases / Assets（发行版附件）；Gitee 暂不启用，不需要另一个个人网站。如对应版本页面尚无附件，表示该版本仍在准备，请勿下载其他来源的同名程序。
+- github 对应版本入口（下载状态以页面附件为准）：https://github.com/arvintool/jsonpick-releases/releases/tag/v0.1.33
 
 | 电脑 | 应在发行版附件中选择的文件 | 体积 |
 | --- | --- | --- |
