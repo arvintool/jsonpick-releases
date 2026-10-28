@@ -4,7 +4,7 @@
 
 面向开发者的本地日志 JSON 工具。粘贴混合日志或接口响应，自动提取 JSON；转义字符串中的 request / response 也能在当前窗口展开查看。
 
-[下载 Mac / Windows 版本](https://github.com/arvintool/jsonpick-releases/releases/tag/v0.1.33) · [安装与激活](docs/安装与激活.md) · [使用与许可](docs/使用与许可说明.md)
+[下载 Mac / Windows 版本](https://github.com/arvintool/jsonpick-releases/releases/tag/v0.1.33) · [安装与激活](docs/安装与激活.md) · [提交试用反馈](https://github.com/arvintool/jsonpick-releases/issues/new?template=trial-feedback.md) · [使用与许可](docs/使用与许可说明.md)
 
 ![JSONPick 0.1.33：原始日志与内嵌 JSON 在同一窗口查看](assets/workspace.jpg)
 
@@ -53,6 +53,8 @@ Mac 要求 macOS 13+，当前未公证。Windows 目标为 Windows 10 / 11 x64�
 
 日志在本机处理，不自动保存历史；退出前请主动保存需要保留的内容。外部媒体的网络访问方式见[隐私说明](docs/隐私说明.md)。
 
-[反馈问题](https://github.com/arvintool/jsonpick-releases/issues)时，请提供系统与 JSONPick 版本、操作步骤和合成最小示例；不要提交生产日志、令牌、订单或完整授权码。
+欢迎[提交试用反馈](https://github.com/arvintool/jsonpick-releases/issues/new?template=trial-feedback.md)：你想完成什么、是否成功、哪里省事或卡住，以及会不会再次使用。遇到问题时请提供系统与 JSONPick 版本、操作步骤和合成最小示例。
+
+GitHub 反馈需要登录，内容公开。不要提交生产日志、令牌、签名链接、订单或完整授权码；没有 GitHub 账号时，可以把体验告诉邀请你试用的人，无需专门注册。
 
 本仓库用于安装包发行和使用说明，应用源码未在此提供。[隐私说明](docs/隐私说明.md) · [使用与许可](docs/使用与许可说明.md) · [第三方声明](docs/THIRD-PARTY-NOTICES.txt)
